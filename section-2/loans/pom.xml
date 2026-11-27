@@ -94,7 +94,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>suyash1008/${project.artifactId}:s4</name>
+						<name>cdac/${project.artifactId}:s4</name>
 					</image>
 				</configuration>
 			</plugin>
